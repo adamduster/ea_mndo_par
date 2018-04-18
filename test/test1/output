@@ -2016,28 +2016,3 @@ PGAError: Fatal
 #  35: [  0.1882681], [ 0.08918966], [  0.1737234], [  0.1447253], [  0.1029467]
 #  40: [  0.7505354], [ 0.06367874], [   15.46708], [   14.87832], [   14.57862]
 #  45: [   12.96779], [    3.92468]
-
-forrtl: error (69): process interrupted (SIGINT)
-Image              PC                Routine            Line        Source             
-segapp             00000000004AEF05  Unknown               Unknown  Unknown
-segapp             00000000004ACB27  Unknown               Unknown  Unknown
-segapp             0000000000468434  Unknown               Unknown  Unknown
-segapp             0000000000468246  Unknown               Unknown  Unknown
-segapp             0000000000420EF6  Unknown               Unknown  Unknown
-segapp             00000000004252CE  Unknown               Unknown  Unknown
-libc.so.6          00002B17AA36B4A0  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A93447CE  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A94EE7E5  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A9459B0A  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A933344A  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A9332D5D  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A9332BDC  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A9332B0C  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A94E9A1A  Unknown               Unknown  Unknown
-libmpi.so.12       00002B17A943709A  Unknown               Unknown  Unknown
-libmpifort.so.12   00002B17A8F2949A  Unknown               Unknown  Unknown
-libmpi_ilp64.so.4  00002B17A8C85402  Unknown               Unknown  Unknown
-segapp             00000000004051F3  MAIN__                     68  main.F
-segapp             00000000004036AE  Unknown               Unknown  Unknown
-libc.so.6          00002B17AA356830  Unknown               Unknown  Unknown
-segapp             00000000004035A9  Unknown               Unknown  Unknown
