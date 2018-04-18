@@ -210,33 +210,3 @@ The Best String:
 #  35: [   0.188993], [ 0.08918966], [  0.1737234], [  0.1447253], [  0.1029467]
 #  40: [  0.7505354], [ 0.05375703], [   15.46708], [   14.87832], [   14.57862]
 #  45: [   12.96779], [    3.92468]
-
-PGAGetBestIndex: Evaluate function not up to date: 0
-PGAError: Fatal
-PGAGetBestIndex: Evaluate function not up to date: 0
-PGAError: Fatal
-PGAGetBestIndex: Evaluate function not up to date: 0
-PGAError: Fatal
-forrtl: error (69): process interrupted (SIGINT)
-Image              PC                Routine            Line        Source             
-segapp             00000000004AF065  Unknown               Unknown  Unknown
-segapp             00000000004ACC87  Unknown               Unknown  Unknown
-segapp             0000000000468594  Unknown               Unknown  Unknown
-segapp             00000000004683A6  Unknown               Unknown  Unknown
-segapp             0000000000421056  Unknown               Unknown  Unknown
-segapp             000000000042542E  Unknown               Unknown  Unknown
-libc.so.6          00002B94B21C34A0  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B11A6798  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B12B1E39  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B12B1B32  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B118B2F9  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B118AD5D  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B118ABDC  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B118AB0C  Unknown               Unknown  Unknown
-libmpi.so.12       00002B94B118C932  Unknown               Unknown  Unknown
-libmpifort.so.12   00002B94B0D44B1C  Unknown               Unknown  Unknown
-libmpi_ilp64.so.4  00002B94B0ADDC7A  Unknown               Unknown  Unknown
-segapp             00000000004052E6  MAIN__                     70  main.F
-segapp             00000000004036AE  Unknown               Unknown  Unknown
-libc.so.6          00002B94B21AE830  Unknown               Unknown  Unknown
-segapp             00000000004035A9  Unknown               Unknown  Unknown
